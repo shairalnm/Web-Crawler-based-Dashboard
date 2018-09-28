@@ -8,7 +8,7 @@ Steps to be followed :
 4. Connect path of your sql server by changing its name to that of your server.
 5. Connect the sql servers data to tableau workbook. 
 
-<a href="https://public.tableau.com/profile/srujan.pothina#!/vizhome/workbook_39/Dashboard1">This</a> is the link for tableau dashboard hosted using tableau public.<br><br>
+<a href="https://public.tableau.com/profile/shairal.neema#!/vizhome/WebCrawlerBasedDashboard/Dashboard2?publish=yes">This</a> is the link for tableau dashboard hosted using tableau public.<br><br>
 
 <a href="https://prezi.com/p/1bclk2oq0zaw/"> This</a> is the presentation of demo.
 <br>
