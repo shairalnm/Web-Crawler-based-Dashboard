@@ -10,7 +10,7 @@ Steps to be followed :
 
 <a href="https://public.tableau.com/profile/shairal.neema#!/vizhome/WebCrawlerBasedDashboard/Dashboard2?publish=yes">This</a> is the link for tableau dashboard hosted using tableau public.<br><br>
 
-<a href="https://prezi.com/p/1bclk2oq0zaw/"> This</a> is the presentation of demo.
+
 <br>
 Below is the example HR dashboard :
 
